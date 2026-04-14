@@ -17,12 +17,6 @@ update:
 
 http_request:
 
-wifi:
-  ssid: !remove
-  password: !remove
-  ap:
-    ssid: !remove
-    password: !remove
 
 api:
   encryption: !remove
