@@ -15,10 +15,7 @@
 substitutions:
   api_key: ""
   ota_password: " "
-  fallback_password: ""
-  wifi_ssid: ""
-  wifi_password: ""
-
+  
   modbus_inverter_address: "0x01" # Default Modbus address, should be changed to match inverter settings
 
   # Safe Mode parameters for supported inverters
