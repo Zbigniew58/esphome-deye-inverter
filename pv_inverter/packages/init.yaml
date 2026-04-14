@@ -78,12 +78,7 @@ debug:
   update_interval: 60s
 
 sensor:
-  - platform: wifi_signal
-    name: "ESP WiFi Signal"
-    id: esp_wifi_signal
-    icon: mdi:wifi
-    update_interval: 60s
-    entity_category: diagnostic
+
   - platform: uptime
     name: ESP Uptime
     id: esp_uptime
