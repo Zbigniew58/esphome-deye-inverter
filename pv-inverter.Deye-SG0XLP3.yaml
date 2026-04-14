@@ -30,7 +30,7 @@ substitutions:
 
 packages:
   pv_inverter:
-    url: https://github.com/Lewa-Reka/esphome-deye-inverter
+    url: https://github.com/Zbigniew58/esphome-deye-inverter
     refresh: 12h
     files: pv_inverter/deye_hybrid_3p_lv.yaml # SG0XLP3 Low Voltage (3P)
 
